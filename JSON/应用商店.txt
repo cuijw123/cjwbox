@@ -46,13 +46,13 @@
             },
                    {
         "name": "OK影视-py",
-        "url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/OK%E5%BD%B1%E8%A7%86-py.apk",
+        "url": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%86-py.apk",
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/r8nk2.png?inline=false",
         "version": "高版本"
       },
        {
         "name": "OK影视海信版",
-        "url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/OK%E5%BD%B1%E8%A7%86%E6%B5%B7%E4%BF%A1%E7%89%88.apk",
+        "url": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%86%E6%B5%B7%E4%BF%A1%E7%89%88.apk",
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/r8nk2.png?inline=false",
         "version": "海信版"
       },
@@ -63,7 +63,7 @@
     {
     "name": "OK影视4.x版",
   
-        "url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/OK%E5%BD%B1%E8%A7%864.x.apk",
+        "url": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%864.x.apk",
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/r8nk2.png?inline=false",
         "version": "低版本"
       },
@@ -77,7 +77,7 @@
 
                         {
                 "name": "宝盒3.0.9",
-                "url": "https://cloud.lxweb.cn/f/pYobCe/%E5%AE%9D%E7%9B%92_3.0.9.apk",
+                "url": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/%E5%AE%9D%E7%9B%92_3.0.9.apk",
                 "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/%E5%AE%9D%E7%9B%92.png?inline=false"
                
             },
