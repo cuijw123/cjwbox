@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2024-07-23 10:08:19 <<<
+//      >>> 当前时间是：2024-07-28 13:33:07 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://tvbox.王二小放牛娃.top
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721664725852/wex.txt;md5;2ee87a9b696b17c9172bf6e024ea8512",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722047901843/wex.txt;md5;b41dc4257cf5b315296442b33414e0db",
 "wallpaper":"https://牛逼.王二小放牛娃.xyz/","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
 "sites":[
 {"key":"Douban","name":"🐮【公众号：王二小放牛娃】🐮","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"},
@@ -16,12 +16,12 @@
 {"key":"Wexyingchao","name":"💓鸟巢┃4K💓","type":3,"api":"csp_Wexyingchao","searchable":1,"changeable":1},
 {"key":"Wexwanni","name":"💓玩你┃4K💓","type":3,"api":"csp_Wexwanni","searchable":1,"changeable":1},
 {"key":"賤賤","name":"📓賤片┃p2p📓","type":3,"api":"csp_WexJianpian","searchable":1,"changeable":1},
-{"key":"Wexxiongdiys","name":"💥基友┃影院💥","type":3,"api":"csp_Wexxiongdiys","searchable":1,"changeable":1},
-{"key":"Wexyuyueys","name":"💥雨落┃影院💥","type":3,"api":"csp_Wexyuyueys","searchable":1,"changeable":1},
-{"key":"南瓜","name":"💥瓜瓜┃影院💥","type":3,"api":"csp_WexNgys","searchable":1,"changeable":1},
-{"key":"Wexkukantv","name":"😁看呗┃影院😁","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
-{"key":"mingriyingshi","name":"😁明日┃影院😁","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1},
-{"key":"Fujutv","name":"😁腐剧┃影院😁","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1},
+{"key":"Wexxiongdiys","name":"💥基友┃影视💥","type":3,"api":"csp_Wexxiongdiys","searchable":1,"changeable":1},
+{"key":"Wexyuyueys","name":"💥雨落┃影视💥","type":3,"api":"csp_Wexyuyueys","searchable":1,"changeable":1},
+{"key":"南瓜","name":"💥瓜瓜┃影视💥","type":3,"api":"csp_WexNgys","searchable":1,"changeable":1},
+{"key":"Wexkukantv","name":"😁看呗┃影视😁","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
+{"key":"mingriyingshi","name":"😁明日┃影视😁","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1},
+{"key":"Fujutv","name":"😁腐剧┃影视😁","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1},
 {"key":"WexTiantianys","name":"🎇明天┃秒播🎇","type":3,"api":"csp_WexTiantianys","searchable":1,"changeable":1},
 {"key":"Wexjiohub","name":"🎇啾啾┃秒播🎇","type":3,"api":"csp_Wexjiohub","searchable":1,"changeable":1},
 {"key":"Wexbaipiao","name":"🎇星星┃秒播🎇","type":3,"api":"csp_Wexbaipiao","searchable":1,"changeable":1},
@@ -31,7 +31,7 @@
 {"key":"Wexsaohuo","name":"🎇火火┃秒播🎇","type":3,"api":"csp_Wexsaohuo","searchable":1,"changeable":1},
 {"key":"Wexzxzj","name":"🎇外剧┃秒播🎇","type":3,"api":"csp_Wexzxzj","searchable":1,"changeable":1},
 {"key":"csp_Nmys","name":"🎇伯伯┃秒播🎇","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
-{"key":"哔嘀影院","name":"🎇喇叭┃秒播🎇","type":3,"api":"csp_WexBDys","searchable":1,"changeable":1},
+{"key":"哔嘀影视","name":"🎇喇叭┃秒播🎇","type":3,"api":"csp_WexBDys","searchable":1,"changeable":1},
 {"key":"Wexlibhd","name":"🎇进口┃秒播🎇","type":3,"api":"csp_Wexlibhd","searchable":1,"changeable":1},
 {"key":"Diduanys","name":"🎇深渊┃秒播🎇","type":3,"api":"csp_WexDiduanys","searchable":1,"changeable":1},
 {"key":"F4kvm","name":"🎇纯享┃秒播🎇","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1},
