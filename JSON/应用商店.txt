@@ -39,9 +39,9 @@
           
                         {
                 "name": "影视仓海信版",
-                "url": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/%E5%BD%B1%E8%A7%86%E4%BB%93_%E6%B5%B7%E4%BF%A1%E7%89%88.apk",
+                "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/%E5%BD%B1%E8%A7%86%E4%BB%93_%E6%B5%B7%E4%BF%A1%E7%89%88.apk",
                 "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/%E5%BD%B1%E8%A7%86%E4%BB%93V3.png?inline=false",
-                "version": "高版本"
+                "version": "高版本5.0.36"
                
             },
                    {
@@ -74,13 +74,6 @@
                 "version": "低版本"
                
             },
-
-                        {
-                "name": "宝盒3.0.9",
-                "url": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/%E5%AE%9D%E7%9B%92_3.0.9.apk",
-                "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/%E5%AE%9D%E7%9B%92.png?inline=false"
-               
-            },
             {
                 "name": "521影视",
                 "url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/521%E5%BD%B1%E8%A7%86.apk",
@@ -94,7 +87,7 @@
                 "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/%E5%AE%B6%E5%BA%ADKTV.png?inline=false"
               
             },
-            {"name": "B站TV版","url": "https://cloud.lxweb.cn/f/8pNVI1/BLBL_release_v1.4.7.apk","icon": "https://cloud.lxweb.cn/f/oMeYtY/bbll.png"},
+         
          
               {
                 "name": "虎牙TV",
@@ -110,9 +103,7 @@
     {
         "name": "直播",
         "list": [
-{"name": "派大星直播","url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD_1.0.6.apk","icon": "https://cloud.lxweb.cn/f/2JzbiG/pdx.png","version": "1.0.7版"},
-
-{"name": "SL聚合直播","url": "https://cloud.lxweb.cn/f/J08VIk/SL%E8%81%9A%E5%90%88%E7%9B%B4%E6%92%AD.apk","icon": "https://cloud.lxweb.cn/f/kEMoCp/sl.png"}]},
+{"name": "派大星直播","url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD_1.0.6.apk","icon": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/png/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD..jpg?inline=false","version": "1.0.7版"}]},
                  {
         "name": "工具",
         "list": [
@@ -126,10 +117,10 @@
                 "url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/He_Tool_3.09.apk",
                 "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/Screenshot_20231228_082701.jpg?inline=false"
                 
-            },
+            }
             
             
-{"name": "甲壳虫ADB","url": "https://cloud.lxweb.cn/f/LPGVFD/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B_1.3.0.apk","icon": "https://cloud.lxweb.cn/f/xg1acM/%E7%94%B2%E5%A3%B3%E8%99%AB.png"}
+
         ]
     },
       {
