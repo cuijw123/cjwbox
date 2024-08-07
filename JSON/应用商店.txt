@@ -46,13 +46,13 @@
             },
                    {
         "name": "OK影视-py",
-        "url": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%86-py.apk",
+        "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%86-py.apk",
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/r8nk2.png?inline=false",
         "version": "高版本"
       },
        {
         "name": "OK影视海信版",
-        "url": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%86%E6%B5%B7%E4%BF%A1%E7%89%88.apk",
+        "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%86%E6%B5%B7%E4%BF%A1%E7%89%88.apk",
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/r8nk2.png?inline=false",
         "version": "海信版"
       },
@@ -63,7 +63,7 @@
     {
     "name": "OK影视4.x版",
   
-        "url": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%864.x.apk",
+        "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%864.x.apk",
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/r8nk2.png?inline=false",
         "version": "低版本"
       },
@@ -103,7 +103,7 @@
     {
         "name": "直播",
         "list": [
-{"name": "派大星直播","url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD_1.0.6.apk","icon": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/png/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD..jpg?inline=false","version": "1.0.7版"}]},
+{"name": "派大星直播","url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD_1.0.6.apk","icon": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/png/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD..jpg?inline=false","version": "1.0.7版"}]},
                  {
         "name": "工具",
         "list": [
@@ -132,7 +132,7 @@
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/Screenshot_20231228_081348.jpg?inline=false"},
      {
         "name": "ok影视-py",
-        "url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/OK%E5%BD%B1%E8%A7%86%E6%89%8B%E6%9C%BA%E7%89%88.apk",
+        "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%86%E6%89%8B%E6%9C%BA%E7%89%88.apk",
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/r8nk2.png?inline=false",
         "version": "v8a"
       }
