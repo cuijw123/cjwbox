@@ -69,7 +69,7 @@
       },
        {
                 "name": "影视仓4.0",
-                "url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/%E5%BD%B1%E8%A7%86%E4%BB%93V3_%E7%A8%B3%E5%AE%9A%E7%89%88_-3.0.32_%E5%85%BC%E5%AE%B9%E5%AE%89%E5%8D%934.apk",
+                "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/%E5%BD%B1%E8%A7%86%E4%BB%93V3_%E7%A8%B3%E5%AE%9A%E7%89%88_-3.0.32_%E5%85%BC%E5%AE%B9%E5%AE%89%E5%8D%934.apk",
                 "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/%E5%BD%B1%E8%A7%86%E4%BB%93V3.png?inline=false",
                 "version": "低版本"
                
