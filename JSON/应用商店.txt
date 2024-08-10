@@ -40,7 +40,7 @@
                 "name": "影视仓海信版",
                 "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/%E5%BD%B1%E8%A7%86%E4%BB%93_%E6%B5%B7%E4%BF%A1%E7%89%88.apk",
                 "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/%E5%BD%B1%E8%A7%86%E4%BB%93V3.png?inline=false",
-                "version": "高版本5.0.38"
+                "version": "高版本5.0.39"
                
             },     
                    {
