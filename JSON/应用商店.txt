@@ -49,12 +49,7 @@
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/r8nk2.png?inline=false",
         "version": "高版本"
       },
-       {
-        "name": "OK影视海信版",
-        "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%86%E6%B5%B7%E4%BF%A1%E7%89%88.apk",
-        "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/r8nk2.png?inline=false",
-        "version": "海信版"
-      },
+     
      
      
     
