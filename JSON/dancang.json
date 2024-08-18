@@ -4,7 +4,11 @@
                {
             "url": "https://wds.ecsxs.com/228917.json",
             "name": "🔔自用线路"
-        },   
+        },  
+      {
+            "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/JSON/ziyong.json",
+            "name": "🔔备用线路"
+        },       
          {"name": "🐮王二小放牛🐮","url": "http://tvbox.王二小放牛娃.top"}, 
                   {
             "url": "http://www.饭太硬.com/tv",
@@ -54,10 +58,7 @@
         "url": "http://rihou.cc:88/荷城茶秀",
         "name": "🚀荷城茶秀"
     },
-              {
-            "url": "https://raw.gitcode.com/cuijw123/cjwbox/raw/main/JSON/ziyong.json",
-            "name": "🔔测试线路"
-        },    
+              
             
         {
             "url": "http://meowtv.cn/tv",
