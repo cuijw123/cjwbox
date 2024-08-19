@@ -73,7 +73,7 @@
                 "name": "宝盒",
                 "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/%E5%AE%9D%E7%9B%92.apk",
                 "icon": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/png/%E5%AE%9D%E7%9B%92.png?inline=false",
-         "version": "3.121"
+         "version": "3.2.2"
                
             },
       
