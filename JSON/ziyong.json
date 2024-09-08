@@ -8,7 +8,7 @@
          {
         "name": "雨中直播",
         "type": 0,
-        "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/lives/yehuozhibo.txt",
+        "url": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/lives/yehuozhibo.txt",
         "playerType": 1,
         "ua": "okhttp/3.15",
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -150,9 +150,9 @@
             "quickSearch": 1,
             "ext": "https://gitcode.net/m0_73652888/PizazzGY-TVBox/-/raw/main/JS/%E9%87%87%E9%9B%86%E4%B9%8B%E7%8E%8B.js?type=url&params=https://gitcode.net/m0_73652888/PizazzGY-TVBox/-/raw/main/JSON/%E9%87%87%E9%9B%86%E9%9D%99%E6%80%81.json$1$1"
         },
-         {"key": "py_tv","name": "🌏央视片库","type": 3,"api": "py_cctv","ext": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/py/py_%E5%A4%AE%E8%A7%86%E7%89%87%E5%BA%93.py"},  
+         {"key": "py_tv","name": "🌏央视片库","type": 3,"api": "py_cctv","ext": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/py/py_%E5%A4%AE%E8%A7%86%E7%89%87%E5%BA%93.py"},  
 
-             {"key": "py_tv央视片库","name": "🏀央视片库","type": 3,"searchable":0,"quickSearch":0,"filterable":1,"api": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/py/py_%E5%A4%AE%E8%A7%86%E7%89%87%E5%BA%93.py"},
+             {"key": "py_tv央视片库","name": "🏀央视片库","type": 3,"searchable":0,"quickSearch":0,"filterable":1,"api": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/py/py_%E5%A4%AE%E8%A7%86%E7%89%87%E5%BA%93.py"},
          
 {
             "ext": "eyJhcGkiOiJodHRwOi8vbGlsZWkubXlkcy5tZTo0NTY3IiwidG9rZW4iOiIifQ==",
