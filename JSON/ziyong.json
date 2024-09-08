@@ -40,6 +40,22 @@
       "quickSearch": 1,
       "changeable": 1
     },
+   
+{
+     "key":"哔哩影院",
+     "name":"️📺哔哩影院",
+     "type":3,
+     "api": "csp_Bili_YS",
+     "searchable": 1,
+     "quickSearch": 1,
+     "changeable": 1,
+     "ext":{
+     "json": "https://git.acwing.com/cuijw/pan/-/raw/main/lib/bili_ys.json",
+     "cookie":"https://4723.kstore.space/lib/bilick.txt"
+},
+     "jar": "https://git.acwing.com/cuijw/pan/-/raw/main/bili.jar"
+  },   
+   
 /*{
       "key": "酷看",
       "name": "💡酷看┃秒播",
@@ -100,7 +116,8 @@
             "jar": "https://gitlab.com/dokiss1/tvbox/-/raw/master/jar/xmpg.jar"
         },
     //{"key":"繁荣","name":"繁荣┃App","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","api":"csp_Frong","playerType":2,"ext":"CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"},
-//{"key":"柠檬","name":"柠檬┃App","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","api":"csp_Nmvod","playerType":2,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="},
+//{"key":"柠檬","name":"柠檬┃App","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","api":"csp_Nmvod","playerType":2,   "ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==","categories": ["电影","连续剧"]},
+{"key":"sliu_spider","name":"石榴┃直连","api":"csp_ShiLiuDY","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"追剧","name":"追剧┃App","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","api":"csp_TTian","playerType":2,"ext":"daHR0cDovL3oua3pqdHYuY29t"},
   
   {
@@ -136,10 +153,25 @@
          {"key": "py_tv","name": "🌏央视片库","type": 3,"api": "py_cctv","ext": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/py/py_%E5%A4%AE%E8%A7%86%E7%89%87%E5%BA%93.py"},  
 
              {"key": "py_tv央视片库","name": "🏀央视片库","type": 3,"searchable":0,"quickSearch":0,"filterable":1,"api": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/py/py_%E5%A4%AE%E8%A7%86%E7%89%87%E5%BA%93.py"},
-             
-   
+         
+{
+            "ext": "eyJhcGkiOiJodHRwOi8vbGlsZWkubXlkcy5tZTo0NTY3IiwidG9rZW4iOiIifQ==",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "BiliBili",
+            "changeable": 0,
+            "jar": "http://lilei.myds.me:4567/spring.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "csp_BiliBili",
+            "type": 3,
+            "key": "csp_BiliBili",
+            "searchable": 1
+        },
      {"key":"解说","name":"⚽️电影解说","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/cuijw123/tvboxx/-/raw/main/json/dianyingjiaishuo.json"},
-       {
+       /*{
      "key":"哔哩影院",
      "name":"️📺哔哩影院",
      "type":3,
@@ -152,7 +184,7 @@
      "cookie":"https://4723.kstore.space/lib/bilick.txt"
 },
      "jar": "https://gitlab.com/pan230035/tvbox/-/raw/main/bili.jar"
-  },
+  },*/
    
     {
       "key": "js_changmeng",
@@ -301,7 +333,7 @@
             "quickSearch": 0,
             "filterable": 0
         },*/
-             {"key":"韩圈","name":"🦄韩圈┃App","type": 3,"api":"csp_HanXiaoQuan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1, "timeout": 10, "jar":"https://2938.kstore.space/jar/okjpg.txt"},
+             {"key":"韩圈","name":"🦄韩圈┃App","type": 3,"api":"csp_HanXiaoQuan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1, "timeout": 10, "jar":"https://git.acwing.com/cuijw/cjwbox/-/raw/main/jar/okjpg.txt"},
  
      
 
@@ -508,17 +540,27 @@
    /*{"key":"腾讯1","name":"🎈少儿频道1","type":3,"api":"https://yydf.540734621.xyz/QQ/js/drpy2.min.js","ext":"https://yydf.540734621.xyz/QQ/js/腾讯.js"},
 {"key":"芒果1","name":"🎈少儿频道2","type":3,"api":"https://yydf.540734621.xyz/QQ/js/drpy2.min.js","ext":"https://yydf.540734621.xyz/QQ/js/忙果.js"},
 {"key":"奇艺1","name":"🎈少儿频道3","type":3,"api":"https://yydf.540734621.xyz/QQ/js/drpy2.min.js","ext":"https://yydf.540734621.xyz/QQ/js/异兽.js"},
-{"key":"优酷1","name":"🎈少儿频道4","type":3,"api":"https://yydf.540734621.xyz/QQ/js/drpy2.min.js","ext":"https://yydf.540734621.xyz/QQ/js/优酷.js"},*/
+{"key":"优酷1","name":"🎈少儿频道4","type":3,"api":"https://yydf.540734621.xyz/QQ/js/drpy2.min.js","ext":"https://yydf.540734621.xyz/QQ/js/优酷.js"},*/{
+			"key": "hipy_js_贝乐虎[儿]",
+			"name": "🎈贝乐虎",
+			"type": 3,
+			"api": "https://gitcode.net/m0_73652888/libs/-/raw/master/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitcode.net/m0_73652888/libs/-/raw/master/drpy_js/%E8%B4%9D%E4%B9%90%E8%99%8E%5B%E5%84%BF%5D.js"
+		},
 {"key":"csp_XYQHiker_兔小贝","name":"🎈兔小贝1","type":3,"jar":"https://yydf.540734621.xyz/QQ/txt/xyq.txt;md5;0578e48b03db152d0f0bbb03704d4ab5","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydf.540734621.xyz/QQ/json/兔小贝.json"},
 {"key":"csp_XYQHiker_兔小贝2","name":"🎈兔小贝2","type":3,"jar":"https://yydf.540734621.xyz/QQ/txt/xyq.txt;md5;0578e48b03db152d0f0bbb03704d4ab5","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydf.540734621.xyz/QQ/json/兔小贝2.json"},
 {"key":"童趣","name":"🎈童趣","type":3,"api":"https://yydf.540734621.xyz/QQ/js/drpy2.min.js","ext":"https://yydf.540734621.xyz/QQ/js/童趣.js"},
 {"key":"幼儿启蒙","name":"🎈幼儿启蒙","type":3,"api":"csp_Bili","jar":"https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydf.540734621.xyz/QQ/json/幼儿启蒙.json"},
 {"key":"益智","name":"🎈益智.动画","type":3,"api":"csp_Bili","jar":"https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yydf.540734621.xyz/QQ/json/益智动画.json"},
-{"key":"少儿教育","name":"🎈少儿教育","type":3,"api":"csp_Bili","jar":"https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydf.540734621.xyz/QQ/json/少儿教育.json"},
+//{"key":"少儿教育","name":"🎈少儿教育","type":3,"api":"csp_Bili","jar":"https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydf.540734621.xyz/QQ/json/少儿教育.json"},
 {"key":"幼儿乐园","name":"🎈幼儿乐园","type":3,"api":"csp_Bili","jar":"https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydf.540734621.xyz/QQ/json/幼儿乐园.json"},
-{"key":"儿童","name":"🎈儿童乐园","type":3,"api":"csp_Bili","jar":"https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydf.540734621.xyz/QQ/json/儿童乐园.json"},
-{"key":"学习","name":"🎈学习园地","type":3,"api":"csp_Bili","jar":"https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydf.540734621.xyz/QQ/json/学习园地.json"},
-{"key":"幼小衔接","name":"🎈幼小衔接","type":3,"api":"csp_Bili","jar":"https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydf.540734621.xyz/QQ/json/幼小衔接.json"},
+//{"key":"儿童","name":"🎈儿童乐园","type":3,"api":"csp_Bili","jar":"https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydf.540734621.xyz/QQ/json/儿童乐园.json"},
+//{"key":"学习","name":"🎈学习园地","type":3,"api":"csp_Bili","jar":"https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydf.540734621.xyz/QQ/json/学习园地.json"},
+//{"key":"幼小衔接","name":"🎈幼小衔接","type":3,"api":"csp_Bili","jar":"https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydf.540734621.xyz/QQ/json/幼小衔接.json"},
       
        
     
