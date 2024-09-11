@@ -80,7 +80,7 @@
     { "key": "农民影院", "name": "农民影院", "type": 3, "api": "csp_WexNmys", "searchable": 1, "changeable": 1 ,"jar":"https://2938.kstore.space/jar/spider.jar"},
   
  //{ "key": "爱优", "name": "🧿爱优┃蓝光", "type": 3,  "jar":"https://d.kstore.space/download/2938/jar/HeChengChaXiu.jar","api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>", "分类url": "https://www.iuys.cc/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html", "分类": "电影$2#电视剧$1#动漫$3#综艺$4" } },
-{ "key": "csp_TVB", "name": "4⃣港视┃高清┃云播", "type": 3, "jar":"https://d.kstore.space/download/2938/jar/HeChengChaXiu.jar", "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "简介": "请勿相信影片中的广告，以免上当受骗。+<span class=\"sketch content&&</div>", "线路数组": "<div class=\"myui-panel__head bottom-line active clearfix\"&&</div>[不包含:极速专线]", "线路标题": "<h3 class=\"title\">&&</h3>", "分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html", "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#动作片$6#喜剧片$7#爱情片$8#科幻片$9#剧情片$10#恐怖片$11#战争片$12#动漫$4#综艺$3" } },
+//{ "key": "csp_TVB", "name": "4⃣港视┃高清┃云播", "type": 3, "jar":"https://d.kstore.space/download/2938/jar/HeChengChaXiu.jar", "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "简介": "请勿相信影片中的广告，以免上当受骗。+<span class=\"sketch content&&</div>", "线路数组": "<div class=\"myui-panel__head bottom-line active clearfix\"&&</div>[不包含:极速专线]", "线路标题": "<h3 class=\"title\">&&</h3>", "分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html", "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#动作片$6#喜剧片$7#爱情片$8#科幻片$9#剧情片$10#恐怖片$11#战争片$12#动漫$4#综艺$3" } },
 
  {"name":"💘淘剧┃直连","key":"csp_CandyMuj_taoju","jar":"https://gitee.com/hackyjso/TVbox/raw/main/jar/lem1225.jar","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1},
     /*{
@@ -117,18 +117,10 @@
         },
     //{"key":"繁荣","name":"繁荣┃App","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","api":"csp_Frong","playerType":2,"ext":"CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"},
 //{"key":"柠檬","name":"柠檬┃App","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","api":"csp_Nmvod","playerType":2,   "ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==","categories": ["电影","连续剧"]},
-{"key":"sliu_spider","name":"石榴┃直连","api":"csp_ShiLiuDY","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"追剧","name":"追剧┃App","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","api":"csp_TTian","playerType":2,"ext":"daHR0cDovL3oua3pqdHYuY29t"},
+//{"key":"sliu_spider","name":"石榴┃直连","api":"csp_ShiLiuDY","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
+//{"key":"追剧","name":"追剧┃App","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","api":"csp_TTian","playerType":2,"ext":"daHR0cDovL3oua3pqdHYuY29t"},
   
-  {
-            "key": "JOJO",
-            "name": "🍑️️九九┃高清",
-            "type": 3,
-            "api": "csp_Wexjiohub",
-            "jar": "https://gitlab.com/dokiss1/tvbox/-/raw/master/jar/ou.jar",
-            "searchable": 1,
-            "changeable": 1
-        },
+
         {
       "key": "厂长",
       "name": "📔厂长┃不卡",
