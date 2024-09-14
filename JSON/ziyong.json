@@ -1,5 +1,6 @@
 {   
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726341831430/fan.txt;md5;898ae43d224f936c7da77c375cd68284",
+//"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
 //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724011440046/fan.txt;md5;f6c7214d9b4bef41c97d248790060a9a",
 "wallpaper": "https://深色壁纸.xxooo.cf/",
      "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
@@ -120,8 +121,7 @@
 //{"key":"sliu_spider","name":"石榴┃直连","api":"csp_ShiLiuDY","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
 //{"key":"追剧","name":"追剧┃App","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","api":"csp_TTian","playerType":2,"ext":"daHR0cDovL3oua3pqdHYuY29t"},
   
-
-        {
+       {
       "key": "厂长",
       "name": "📔厂长┃不卡",
       "type": 3,
@@ -131,17 +131,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://czzy.top/"
+      "ext": "https://www.czys.pro/"
     },
-       {
+   {
             "key": "采集之王",
             "name": "采集｜合集",
             "type": 3,
-            "api": "https://gitcode.net/m0_73652888/PizazzGY-TVBox/-/raw/main/JS/drpy2.min.js",
+            "api": "https://git.acwing.com/cuijw/pizazzgy/-/raw/main/JS/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "https://gitcode.net/m0_73652888/PizazzGY-TVBox/-/raw/main/JS/%E9%87%87%E9%9B%86%E4%B9%8B%E7%8E%8B.js?type=url&params=https://gitcode.net/m0_73652888/PizazzGY-TVBox/-/raw/main/JSON/%E9%87%87%E9%9B%86%E9%9D%99%E6%80%81.json$1$1"
+            "ext": "https://git.acwing.com/cuijw/pizazzgy/-/raw/main/JS/%E9%87%87%E9%9B%86%E4%B9%8B%E7%8E%8B.js?type=url&params=https://git.acwing.com/cuijw/pizazzgy/-/raw/main/JSON/%E9%87%87%E9%9B%86%E9%9D%99%E6%80%81.json$1$1"
         },
+    /*{
+            "key": "采集之王",
+            "name": "采集｜合集",
+            "type": 3,
+            "api": "https://raw.kkgithub.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "https://raw.kkgithub.com/PizazzGY/TVBox/main/JS/%E9%87%87%E9%9B%86%E4%B9%8B%E7%8E%8B.js?type=url&params=https://raw.kkgithub.com/PizazzGY/TVBox/main/JSON/%E9%87%87%E9%9B%86%E9%9D%99%E6%80%81.json$1$1"
+        },*/
+   
          {"key": "py_tv","name": "🌏央视片库","type": 3,"api": "py_cctv","ext": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/py/py_%E5%A4%AE%E8%A7%86%E7%89%87%E5%BA%93.py"},  
 
              {"key": "py_tv央视片库","name": "🏀央视片库","type": 3,"searchable":0,"quickSearch":0,"filterable":1,"api": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/py/py_%E5%A4%AE%E8%A7%86%E7%89%87%E5%BA%93.py"},
@@ -200,7 +210,18 @@
       "ext": "https://git.acwing.com/cuijw/orange/-/raw/main/drpy_js/%E7%B4%A0%E7%99%BD%E7%99%BD%5B%E4%BC%98%5D.js"
     },
         
-     
+    
+    {
+      "key": "Auete",
+      "name": "🏝奥特┃无广",
+      "type": 3,
+      "api": "csp_Auete",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.pro/"
+    },
   
   
     {
@@ -367,17 +388,6 @@
   
   
  
-    {
-      "key": "Auete",
-      "name": "🏝奥特┃无广",
-      "type": 3,
-      "api": "csp_Auete",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.pro/"
-    },
     {
       "key": "Wextangdou",
       "name": "💃红豆跳舞┃教学💃",
