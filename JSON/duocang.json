@@ -2,7 +2,7 @@
     "storeHouse": [
             {
             "sourceName": "自用仓",
-            "sourceUrl": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/JSON/dancang.json"
+            "sourceUrl": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/JSON/dancang.json"
         },
           {
             "sourceName": "备用仓",
