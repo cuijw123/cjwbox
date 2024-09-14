@@ -1,0 +1,10 @@
+{
+    "storeHouse": [
+            {
+            "sourceName": "自用仓",
+            "sourceUrl": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/JSON/dancang.json"
+        },
+          {
+            "sourceName": "备用仓",
+            "sourceUrl": "https://wds.ecsxs.com/231065.json"
+        }]}
