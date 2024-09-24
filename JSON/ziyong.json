@@ -1,5 +1,6 @@
 {   
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726341831430/fan.txt;md5;898ae43d224f936c7da77c375cd68284",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726997741182/fan.txt;md5;5769450f1eccd0c8dc347327736e870a",
+//"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726341831430/fan.txt;md5;898ae43d224f936c7da77c375cd68284",
 //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
 //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724011440046/fan.txt;md5;f6c7214d9b4bef41c97d248790060a9a",
 "wallpaper": "https://深色壁纸.xxooo.cf/",
@@ -17,9 +18,9 @@
     }],
  
   "sites": [ 
-
   
-      {
+   
+   {
       "key": "南瓜",
       "name": "🎃南瓜┃多线",
       "type": 3,
@@ -56,7 +57,16 @@
 },
      "jar": "https://git.acwing.com/cuijw/pan/-/raw/main/bili.jar"
   },   
-   
+   {
+            "key": "瓜子",
+            "name": "瓜子",
+            "type": 3,
+            "api": "csp_Gz360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://raw.kkgithub.com/PizazzGY/TVBox/main/spider.jar"},
+        
 /*{
       "key": "酷看",
       "name": "💡酷看┃秒播",
@@ -167,6 +177,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
+              "cookie":"https://4723.kstore.space/lib/bilick.txt",
             "api": "csp_BiliBili",
             "type": 3,
             "key": "csp_BiliBili",
