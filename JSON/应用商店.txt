@@ -40,7 +40,7 @@
                 "name": "影视仓海信版",
                 "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/%E5%BD%B1%E8%A7%86%E4%BB%93_%E6%B5%B7%E4%BF%A1%E7%89%88.apk",
                 "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/%E5%BD%B1%E8%A7%86%E4%BB%93V3.png?inline=false",
-                "version": "高版本5.0.39"
+                "version": "高版本5.0.41.1"
                
             },     
                    {
@@ -62,13 +62,6 @@
         "version": "低版本"
       },
   
-       {
-                "name": "影视仓4.0",
-                "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/%E5%BD%B1%E8%A7%86%E4%BB%93V3_%E7%A8%B3%E5%AE%9A%E7%89%88_-3.0.32_%E5%85%BC%E5%AE%B9%E5%AE%89%E5%8D%934.apk",
-                "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/%E5%BD%B1%E8%A7%86%E4%BB%93V3.png?inline=false",
-                "version": "低版本"
-               
-            },
             {
                 "name": "宝盒",
                 "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/%E5%AE%9D%E7%9B%92.apk",
@@ -77,20 +70,25 @@
                
             },
       
-                        {
+            {
+                "name": "影视仓通用版",
+                "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/%E5%BD%B1%E8%A7%86%E4%BB%93_%E9%80%9A%E7%94%A8%E7%89%88.apk",
+                "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/%E5%BD%B1%E8%A7%86%E4%BB%93V3.png?inline=false",
+                "version": "高版本5.0.41.1"
+               
+            },  
+           {
+        "name": "521影视",
+        "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/521%E5%BD%B1%E8%A7%86.apk",
+        "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/Screenshot_20231228_081348.jpg?inline=false",   
+          "version": "版本1.4.1"},     
+                                                        {
                 "name": "家庭KTV 1.15",
-                "url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/%E5%AE%B6%E5%BA%ADKTV_1.1.5.apk",
+                "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/%E5%AE%B6%E5%BA%ADKTV_1.1.5.apk",
                 "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/%E5%AE%B6%E5%BA%ADKTV.png?inline=false"
               
-            },
-         
-         
-              {
-                "name": "虎牙TV",
-                "url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/HuYa_1.0.31.apk",
-                "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/Screenshot_20231228_082919.jpg?inline=false"
-              
             }
+         
             
            
         ]
@@ -100,34 +98,24 @@
         "name": "直播",
         "list": [
 {"name": "派大星直播","url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD_1.0.6.apk","icon": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/png/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD..jpg?inline=false","version": "1.0.7版"}]},
-                 {
-        "name": "工具",
-        "list": [
-
-             {
-                "name": "壳助手",
-                "url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/%E5%A3%B3%E5%8A%A9%E6%89%8B_1.7.4.6.apk",
-                "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/%E5%A3%B3%E5%8A%A9%E6%89%8Bst.png?inline=false"},
-            {
-                "name": "He tool工具",
-                "url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/He_Tool_3.09.apk",
-                "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/Screenshot_20231228_082701.jpg?inline=false"
-                
-            }
-            
-            
-
-        ]
-    },
+                 
       {
     "name": "手机影视app",
     "list": [
              {
-        "name": "521影视",
+        "name": "521影视手机版",
         "url": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/521%E5%BD%B1%E8%A7%86_%E6%89%8B%E6%9C%BA%E7%89%88.apk",
-        "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/Screenshot_20231228_081348.jpg?inline=false"},
+        "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/Screenshot_20231228_081348.jpg?inline=false",
+          "version": "版本0.4.8"},
+                    {
+                "name": "宝盒手机版",
+                "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/%E5%A0%A1%E7%9B%92%E7%AB%96%E5%B1%8F%E7%89%88-64%E4%BD%8D.apk",
+                "icon": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/png/%E5%AE%9D%E7%9B%92.png?inline=false",
+         "version": "3.2.2"
+               
+            },
      {
-        "name": "ok影视-py",
+        "name": "ok影视手机版",
         "url": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%86%E6%89%8B%E6%9C%BA%E7%89%88.apk",
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/r8nk2.png?inline=false",
         "version": "v8a"
