@@ -1,6 +1,6 @@
 {  
- "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726997741182/fan.txt;md5;5769450f1eccd0c8dc347327736e870a",
-//"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726341831430/fan.txt;md5;898ae43d224f936c7da77c375cd68284",
+// "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726997741182/fan.txt;md5;5769450f1eccd0c8dc347327736e870a",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726341831430/fan.txt;md5;898ae43d224f936c7da77c375cd68284",
 //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
 //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724011440046/fan.txt;md5;f6c7214d9b4bef41c97d248790060a9a",
 "wallpaper": "https://深色壁纸.xxooo.cf/",
@@ -93,7 +93,7 @@
  //{ "key": "爱优", "name": "🧿爱优┃蓝光", "type": 3,  "jar":"https://d.kstore.space/download/2938/jar/HeChengChaXiu.jar","api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>", "分类url": "https://www.iuys.cc/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html", "分类": "电影$2#电视剧$1#动漫$3#综艺$4" } },
 //{ "key": "csp_TVB", "name": "4⃣港视┃高清┃云播", "type": 3, "jar":"https://d.kstore.space/download/2938/jar/HeChengChaXiu.jar", "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "简介": "请勿相信影片中的广告，以免上当受骗。+<span class=\"sketch content&&</div>", "线路数组": "<div class=\"myui-panel__head bottom-line active clearfix\"&&</div>[不包含:极速专线]", "线路标题": "<h3 class=\"title\">&&</h3>", "分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html", "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#动作片$6#喜剧片$7#爱情片$8#科幻片$9#剧情片$10#恐怖片$11#战争片$12#动漫$4#综艺$3" } },
 
- {"name":"💘淘剧┃直连","key":"csp_CandyMuj_taoju","jar":"https://gitee.com/hackyjso/TVbox/raw/main/jar/lem1225.jar","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1},
+ //{"name":"💘淘剧┃直连","key":"csp_CandyMuj_taoju","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1},
     /*{
       "key": "hipy_js_央视大全",
       "name": "🌏央视影库",
@@ -456,18 +456,6 @@
 
 
   
-  
- 
-    {
-      "key": "Wextangdou",
-      "name": "💃红豆跳舞┃教学💃",
-      "type": 3,
-        "jar": "https://2938.kstore.space/jar/wex.jar;md5;bddf772185748da4ce3f57fa889e3c96",
-      "api": "csp_Wextangdou",
-      "searchable": 1,
-      "changeable": 0
-   
-    },
         {
       "key": "Wexwuxiang",
       "name": "🌐格斗┃体育🌐",
@@ -571,7 +559,11 @@
     
    
          
-        {"key":"drpy_js_网易公版影像","name":" 网易公版影像","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网易公版影像.js"}, 
+        {"key":"drpy_js_网易公版影像",
+        "name":" 网易公版影像",
+        "type":3,
+        "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+                "ext":"https://git.acwing.com/cuijw/cjwbox/-/raw/main/JS/%E7%BD%91%E6%98%93%E5%85%AC%E7%89%88%E5%BD%B1%E5%83%8F.js"}, 
 
         {
             "key": "无忧短剧",
@@ -616,12 +608,12 @@
 			"key": "hipy_js_贝乐虎[儿]",
 			"name": "🎈贝乐虎",
 			"type": 3,
-			"api": "https://gitcode.net/m0_73652888/libs/-/raw/master/drpy_libs/drpy2.min.js",
+			"api": "https://git.acwing.com/cuijw/dzlibs/-/raw/master/drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gitcode.net/m0_73652888/libs/-/raw/master/drpy_js/%E8%B4%9D%E4%B9%90%E8%99%8E%5B%E5%84%BF%5D.js"
+			"ext": "https://git.acwing.com/cuijw/dzlibs/-/raw/master/drpy_js/%E8%B4%9D%E4%B9%90%E8%99%8E%5B%E5%84%BF%5D.js"
 		},
 {"key":"csp_XYQHiker_兔小贝","name":"🎈兔小贝1","type":3,"jar":"https://yydf.540734621.xyz/QQ/txt/xyq.txt;md5;0578e48b03db152d0f0bbb03704d4ab5","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydf.540734621.xyz/QQ/json/兔小贝.json"},
 {"key":"csp_XYQHiker_兔小贝2","name":"🎈兔小贝2","type":3,"jar":"https://yydf.540734621.xyz/QQ/txt/xyq.txt;md5;0578e48b03db152d0f0bbb03704d4ab5","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydf.540734621.xyz/QQ/json/兔小贝2.json"},
@@ -644,27 +636,23 @@
         
      //{"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio": 3.8}},
      {"key": "戏曲","name": "🎎️️️戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://codeberg.org/cuijw123/tvbox/raw/branch/main/JSON/%E6%88%8F%E6%9B%B2.json"},
-	{
+	
+   {
 			"key": "hipy_js_一曲肝肠断",
 			"name": "🎎戏曲欣赏",
 			"type": 3,
-			"api": "https://gitcode.net/m0_73652888/libs/-/raw/master/drpy_libs/drpy2.min.js",
+			"api": "https://git.acwing.com/cuijw/dzlibs/-/raw/master/drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gitcode.net/m0_73652888/libs/-/raw/master/drpy_js/%E4%B8%80%E6%9B%B2%E8%82%9D%E8%82%A0%E6%96%AD.js"
+			"ext": "https://git.acwing.com/cuijw/dzlibs/-/raw/master/drpy_js/%E4%B8%80%E6%9B%B2%E8%82%9D%E8%82%A0%E6%96%AD.js"
 		},
-                 {
-      "key": "Wexliyuan",
-      "name": "🎎梨园行戏曲🎎",
-      "type": 3,
-        "jar": "https://2938.kstore.space/jar/wex.jar;md5;bddf772185748da4ce3f57fa889e3c96",
-      "api": "csp_Wexliyuan",
-      "searchable": 1,
-      "changeable": 0
     
-    },
+    
+    
+    
+    
 {"key": "评书","name": "🅰️️️评书","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/json/pingshu.json"},
 {"key":"相声","name":"🅰️️相声小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys-j.ysepan.com/m/cuijw/wdfciNhId8K6B5JFL6/c7jBea125CfShCsk54jF7TMLEFo0OM/%E7%9B%B8%E5%A3%B0.txt"},
 
@@ -976,7 +964,7 @@
       "changeable": 0,
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
     },
-       { "key": "應用商店", "name": "🌾应用┃商店", "type": 3, "api": "csp_Market", "searchable": 0, "changeable": 0, "ext": "https://gitcode.net/m0_73652888/cjwbox/-/raw/main/JSON/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97.txt", "jar": "https://d.kstore.space/download/2938/jar/fm.jar" }, 
+       { "key": "應用商店", "name": "🌾应用┃商店", "type": 3, "api": "csp_Market", "searchable": 0, "changeable": 0, "ext": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/JSON/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97.txt", "jar": "https://d.kstore.space/download/2938/jar/fm.jar" }, 
          {
       "key": "push_agent",
       "name": "🛴手机┃推送",
