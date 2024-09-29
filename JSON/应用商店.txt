@@ -38,14 +38,14 @@
         "list": [
                                  {
                 "name": "影视仓海信版",
-                "url": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/app/%E5%BD%B1%E8%A7%86%E4%BB%93_%E6%B5%B7%E4%BF%A1%E7%89%88.apk",
+                "url": "https://2938.kstore.space/app/影视仓_海信版.apk",
                 "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/%E5%BD%B1%E8%A7%86%E4%BB%93V3.png?inline=false",
                 "version": "高版本5.0.41.1"
                
             },     
                    {
         "name": "OK影视-py",
-        "url": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%86-py.apk",
+        "url": "https://2938.kstore.space/app/OK影视-py.apk",
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/r8nk2.png?inline=false",
         "version": "高版本"
       },
@@ -57,14 +57,14 @@
     {
     "name": "OK影视4.x版",
   
-        "url": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%864.x.apk",
+        "url": "https://2938.kstore.space/app/OK影视4.x.apk",
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/r8nk2.png?inline=false",
         "version": "低版本"
       },
   
             {
                 "name": "宝盒",
-                "url": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/app/%E5%AE%9D%E7%9B%92.apk",
+                "url": "https://2938.kstore.space/app/宝盒.apk",
                 "icon": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/app/png/%E5%AE%9D%E7%9B%92.png?inline=false",
          "version": "3.2.2"
                
@@ -79,12 +79,12 @@
             },  
            {
         "name": "521影视",
-        "url": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/app/521%E5%BD%B1%E8%A7%86.apk",
+        "url": "https://2938.kstore.space/app/521影视.apk",
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/Screenshot_20231228_081348.jpg?inline=false",   
           "version": "版本1.4.1"},     
                                                         {
                 "name": "家庭KTV 1.15",
-                "url": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/app/%E5%AE%B6%E5%BA%ADKTV_1.1.5.apk",
+                "url": "https://2938.kstore.space/app/家庭KTV.apk",
                 "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/%E5%AE%B6%E5%BA%ADKTV.png?inline=false"
               
             }
@@ -97,26 +97,27 @@
     {
         "name": "直播",
         "list": [
-{"name": "派大星直播","url": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/app/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD_1.0.6.apk","icon": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/png/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD..jpg?inline=false","version": "1.0.7版"}]},
+    {"name": "派大星直播",
+"url": "https://2938.kstore.space/app/派大星直播.apk","icon": "https://gitlab.com/cuijw123/cjwbox/-/raw/main/app/png/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD..jpg?inline=false","version": "1.0.7版"}]},
                  
       {
     "name": "手机影视app",
     "list": [
              {
         "name": "521影视手机版",
-        "url": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/app/521%E5%BD%B1%E8%A7%86_%E6%89%8B%E6%9C%BA%E7%89%88.apk",
+        "url": "https://2938.kstore.space/app/521影视手机版.apk",
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/Screenshot_20231228_081348.jpg?inline=false",
           "version": "版本0.4.8"},
                     {
                 "name": "宝盒手机版",
-                "url": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/app/%E5%A0%A1%E7%9B%92%E7%AB%96%E5%B1%8F%E7%89%88-V3.2.1-32%E4%BD%8D.apk",
+                "url": "https://2938.kstore.space/app/堡盒手机版.apk",
                 "icon": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/app/png/%E5%AE%9D%E7%9B%92.png?inline=false",
          "version": "3.2.2"
                
             },
      {
         "name": "ok影视手机版",
-        "url": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/app/OK%E5%BD%B1%E8%A7%86%E6%89%8B%E6%9C%BA%E7%89%88.apk",
+        "url": "https://2938.kstore.space/app/OK影视手机版.apk",
         "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/r8nk2.png?inline=false",
         "version": "v8a"
       }
