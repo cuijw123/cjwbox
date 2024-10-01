@@ -6,7 +6,7 @@ var rule = {
     searchUrl:'',
     searchable:0,
     quickSearch:0,
-    class_name: '栏目大全&特别节目&纪录片&电视剧&动画片',
+    class_name: '4K专区&栏目大全&特别节目&纪录片&电影&电视剧&动画片',
     class_url: '栏目大全&特别节目&纪录片&电视剧&动画片',
     filterable: 1,
     filter_url: 'channel={{fl.channel}}&sc={{fl.sc}}&year={{fl.year}}',
