@@ -16,10 +16,56 @@
     }],
  
   "sites": [ 
+ {
+      "key": "木叶",
+      "name": "木叶┃App",
+      "type": 3,
+      "api": "csp_Muye",
+      "playerType": 1,
+      "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
+    ,"jar": "http://cdn.qiaoji8.com/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e"},
+    {
+      "key": "繁荣",
+      "name": "繁荣┃App",
+      "type": 3,
+      "api": "csp_Frong",
+      "playerType": 1,
+      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTR8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
+    ,"jar": "http://cdn.qiaoji8.com/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e"},
+    {
+      "key": "现代",
+      "name": "现代┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cDovL2FwcC5icm92b2QuY29tfDE1MjQ3MjA1MzMzamFyb2R8MTUyNDcyMDUzMzNqYXJvZA=="
+    ,"jar": "http://cdn.qiaoji8.com/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e"},
+    {
+      "key": "思源",
+      "name": "思源┃App",
+      "type": 3,
+      "api": "csp_Syys",
+      "playerType": 1,
+      "ext": "caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
+    ,"jar": "http://cdn.qiaoji8.com/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e"},
+    {
+      "key": "南瓜",
+      "name": "南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 1,
+      "ext": ""
+    ,"jar": "http://cdn.qiaoji8.com/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e"},
+  
+  
+  
   
      { "key": "农民影院", "name": "农民影院", "type": 3, "api": "csp_WexNmys", "searchable": 1, "changeable": 1 ,"jar":"https://2938.kstore.space/jar/spider.jar"},
   
-   {
+   /*{
       "key": "南瓜",
       "name": "🎃南瓜┃多线",
       "type": 3,
@@ -30,7 +76,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {"key":"冬瓜","name":"🇹┃冬瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1}, 
+     {"key":"冬瓜","name":"🇹┃冬瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1},*/ 
          {
       "key": "文采",
       "name": "💮文采┃秒播",
@@ -646,8 +692,18 @@
     
 {"key": "评书","name": "🅰️️️评书","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/json/pingshu.json"},
 {"key":"相声","name":"🅰️️相声小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys-j.ysepan.com/m/cuijw/wdfciNhId8K6B5JFL6/c7jBea125CfShCsk54jF7TMLEFo0OM/%E7%9B%B8%E5%A3%B0.txt"},
-
-    {"key": "Bili","name": "🅰️️哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/json/bili.json"},
+     {
+      "key": "NoSearch_csp_BBB",
+      "name": "哔哩哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u",
+      "jar": "http://cdn.qiaoji8.com/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e"},
+  
+    //{"key": "Bili","name": "🅰️️哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/json/bili.json"},
        {
             "key": "hipy_js_老白故事[听]",
             "name": "老白故事(drpy_t3)",
