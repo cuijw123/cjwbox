@@ -40,7 +40,7 @@
                 "name": "影视仓海信版",
                 "url": "https://2938.kstore.space/app/影视仓_海信版.apk",
                 "icon": "https://gitlab.com/cuijw123/tvboxx/-/raw/main/app/png/%E5%BD%B1%E8%A7%86%E4%BB%93V3.png?inline=false",
-                "version": "高版本5.0.41.1"
+                "version": "高版本5.0.43"
                
             },     
                    {
