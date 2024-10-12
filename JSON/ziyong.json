@@ -35,16 +35,7 @@
     "filterable": 1,
     "order_num": 0,
     "ext": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/JS/%E5%A4%AE%E8%A7%86/%E5%A4%AE%E8%A7%86%E9%A2%91.js"},
-  {
-      "key": "文采",
-      "name": "💮文采┃秒播",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+ 
     {
       "key": "糯米",
       "name": "🍓糯米┃秒播",
@@ -135,7 +126,16 @@
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
-    {"key":"木叶","name":"木叶┃App","type":3,   "jar":"http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1", "api":"csp_Muye","playerType":1,"ext":"cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"},
+  {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
      {
             "key": "freeok",
             "name": "👀小米┃超清",
