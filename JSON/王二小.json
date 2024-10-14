@@ -1,5 +1,5 @@
 {
-  "spider": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/jar/wex.txt;md5;4091845e12fefff20a94f77a64438ad0",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728540390403/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
   "wallpaper": "https://牛逼.王二小放牛娃.xyz/",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
   "sites": [
@@ -11,7 +11,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"
+      "ext": "https://gitee.com/wexfnw/jsonlist/raw/master/douban.json"
     },
     {
       "key": "Doubana",
@@ -21,7 +21,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"
+      "ext": "https://gitee.com/wexfnw/jsonlist/raw/master/douban.json"
     },
     {
       "key": "Wexconfig",
@@ -78,18 +78,18 @@
       "changeable": 1
     },
     {
-      "key": "Wexyingchao",
-      "name": "💓鸟巢┃4K💓",
-      "type": 3,
-      "api": "csp_Wexyingchao",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "Wexnullname",
       "name": "💓无名┃4K💓",
       "type": 3,
       "api": "csp_Wexnullname",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexyingchao",
+      "name": "💓鸟巢┃4K💓",
+      "type": 3,
+      "api": "csp_Wexyingchao",
       "searchable": 1,
       "changeable": 1
     },
@@ -254,6 +254,14 @@
       "changeable": 1
     },
     {
+      "key": "Wexdyxs",
+      "name": "🎇先生┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wexdyxs",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "360",
       "name": "🛝360┃采集🛝",
       "type": 1,
@@ -358,6 +366,14 @@
       "changeable": 1
     },
     {
+      "key": "Wexkoukou2",
+      "name": "🌺扣扣┃4K2🌺",
+      "type": 3,
+      "api": "csp_Wexkoukou2",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "Wexjiazitv",
       "name": "🌺甲子┃4K🌺",
       "type": 3,
@@ -445,6 +461,14 @@
       "name": "🍉短剧┃精品🍉",
       "type": 3,
       "api": "csp_Wexduanjuvip",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexlaobaitingshu",
+      "name": "🎃‍白兔┃听书🎃",
+      "type": 3,
+      "api": "csp_Wexlaobaitingshu",
       "searchable": 1,
       "changeable": 1
     },
@@ -537,18 +561,18 @@
       "changeable": 0
     },
     {
-      "key": "Wexciyuancheng",
-      "name": "🤡元城┃番剧🤡",
+      "key": "WexDm84",
+      "name": "🤡巴士┃动漫🤡",
       "type": 3,
-      "api": "csp_Wexciyuancheng",
+      "api": "csp_WexDm84",
       "searchable": 1,
       "changeable": 1
     },
     {
-      "key": "Wexxifan",
-      "name": "🤡喜翻┃番剧🤡",
+      "key": "WexYsj",
+      "name": "🤡异界┃动漫🤡",
       "type": 3,
-      "api": "csp_Wexxifan",
+      "api": "csp_WexYsj",
       "searchable": 1,
       "changeable": 1
     },
@@ -627,6 +651,28 @@
       }
     },
     {
+      "key": "926看球",
+      "name": "🌐926┃体育🌐",
+      "type": 3,
+      "api": "csp_Wex926kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "1直播",
+      "name": "🌐一直┃体育🌐",
+      "type": 3,
+      "api": "csp_Wexzhibo1",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "企鹅体育xp",
       "name": "🐧大鹅┃体育🌐",
       "type": 3,
@@ -637,7 +683,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitcode.net/wexfnw/wex/-/raw/master/qie.json"
+      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727276654578/qie.json"
     },
     {
       "key": "Wexmiso",
