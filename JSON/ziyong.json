@@ -1,4 +1,6 @@
-{    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728649901533/fan.txt;md5;4e1010524e7057305efc75565c87ba0d",
+{   
+
+ "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728649901533/fan.txt;md5;4e1010524e7057305efc75565c87ba0d",
 "wallpaper": "https://深色壁纸.xxooo.cf/",
      "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   
@@ -35,7 +37,16 @@
     "filterable": 1,
     "order_num": 0,
     "ext": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/JS/%E5%A4%AE%E8%A7%86/%E5%A4%AE%E8%A7%86%E9%A2%91.js"},
- 
+  {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "糯米",
       "name": "🍓糯米┃秒播",
@@ -57,18 +68,7 @@
       }, 
       
   
-
-        {
-      "key": "js_subaibai",
-      "name": "白白影院",
-      "type": 3,
-      "api": "https://git.acwing.com/cuijw/orange/-/raw/main/drpy_libs/drpy2.min.js",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://git.acwing.com/cuijw/orange/-/raw/main/drpy_js/%E7%B4%A0%E7%99%BD%E7%99%BD%5B%E4%BC%98%5D.js"
-    },
+  
  {
       "key": "木叶",
       "name": "木叶┃App",
@@ -137,28 +137,7 @@
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
-  {
-      "key": "文采",
-      "name": "💮文采┃秒播",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-     {
-            "key": "freeok",
-            "name": "👀小米┃超清",
-            "type": 3,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "api": "csp_FreeOK",
-            "jar": "https://gitlab.com/dokiss1/tvbox/-/raw/master/jar/xmpg.jar"
-        },
-    //{"key":"繁荣","name":"繁荣┃App","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","api":"csp_Frong","playerType":2,"ext":"CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"},
-//{"key":"柠檬","name":"柠檬┃App","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","api":"csp_Nmvod","playerType":2,   "ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==","categories": ["电影","连续剧"]},
-//{"key":"sliu_spider","name":"石榴┃直连","api":"csp_ShiLiuDY","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
-//{"key":"追剧","name":"追剧┃App","type":3,"jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432","api":"csp_TTian","playerType":2,"ext":"daHR0cDovL3oua3pqdHYuY29t"},
+    {"key":"木叶","name":"木叶┃App","type":3,   "jar":"http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1", "api":"csp_Muye","playerType":1,"ext":"cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"},
  
     {
       "key": "厂长",
@@ -195,23 +174,7 @@
 
              //{"key": "py_tv央视片库","name": "🌔央视片库","type": 3,"searchable":0,"quickSearch":0,"filterable":1,"api": "https://git.acwing.com/cuijw/cjwbox/-/raw/main/py/py_%E5%A4%AE%E8%A7%86%E7%89%87%E5%BA%93.py"},
          
-{
-            "ext": "eyJhcGkiOiJodHRwOi8vbGlsZWkubXlkcy5tZTo0NTY3IiwidG9rZW4iOiIifQ==",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "BiliBili",
-            "changeable": 0,
-            "jar": "http://lilei.myds.me:4567/spring.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-              "cookie":"https://4723.kstore.space/lib/bilick.txt",
-            "api": "csp_BiliBili",
-            "type": 3,
-            "key": "csp_BiliBili",
-            "searchable": 1
-        },
+
      {"key":"解说","name":"⚽️电影解说","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/cuijw123/tvboxx/-/raw/main/json/dianyingjiaishuo.json"},
        /*{
      "key":"哔哩影院",
@@ -238,7 +201,29 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/cuijw/orange/-/raw/main/drpy_js/%E7%95%85%E6%A2%A6%E5%BD%B1%E8%A7%86%5B%E4%BC%98%5D.js"
     },
-        
+        {
+      "key": "js_subaibai",
+      "name": "白白影院",
+      "type": 3,
+      "api": "https://git.acwing.com/cuijw/orange/-/raw/main/drpy_libs/drpy2.min.js",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/cuijw/orange/-/raw/main/drpy_js/%E7%B4%A0%E7%99%BD%E7%99%BD%5B%E4%BC%98%5D.js"
+    },
+       
+    {
+      "key": "zxzj",
+      "name": "🍊在线┃外剧",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    },
     
     {
       "key": "Auete",
