@@ -7,9 +7,12 @@
         },    
           {
             "url": "https://wds.ecsxs.com/231551.json",
-            "name": "🔔备用线路"
+            "name": "🔔备用线路1"
         },
-              
+          {
+            "url": "https://codeberg.org/cuijw123/tvbox/raw/branch/main/JSON/ziyong.json",
+            "name": "🔔备用线路2"
+        },     
                     
          {"name": "🐮王二小放牛🐮","url": "http://tvbox.王二小放牛娃.top"}, 
                   {
@@ -23,6 +26,11 @@
             "url": "http://ttkx.live:55/天天开心",
             "name": "🚀开心线路"
         },
+          {
+            "url": "http://www.mpanso.com/小米/DEMO.json",
+            "name": "🚀小米线路"
+        },
+    
             {
             "url": "http://肥猫.com",
             "name": "🚀肥猫线路"
